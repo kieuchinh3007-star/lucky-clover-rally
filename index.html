@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+    <meta name="theme-color" content="#0b2a6b" />
+    <meta name="description" content="Lucky Clover Rally by Garketing — an arcade 3D racer through a sunlit canyon. Equal cars, charged drifts, lucky boxes, boost pads, mega ramps and split-screen races. Random tools. Real results. Lucky you." />
+    <title>Lucky Clover Rally — by Garketing</title>
+    <link rel="icon" type="image/png" href="./favicon.png" />
+    <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <link rel="preload" as="image" href="./assets/ui/clover.webp" fetchpriority="high" />
+    <link rel="preload" href="./fonts/Sora-VF.subset.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="./fonts/Figtree-VF.subset.woff2" as="font" type="font/woff2" crossorigin />
+  </head>
+  <body>
+    <canvas id="game"></canvas>
+    <div id="ui"></div>
+    <div id="boot"><div class="boot"><img class="boot-clover" src="./assets/ui/clover.webp" alt="Lucky Clover Rally" width="128" height="128" fetchpriority="high" /><div class="boot-bar"><i data-boot-bar></i></div><p data-boot-text>Planting four-leaf clovers…</p><button type="button" class="boot-retry" data-boot-retry hidden>Retry</button></div></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "title": "Lucky Clover Rally",
+  "description": "A Garketing arcade 3D racer: drift, boost and jump through a giant sunlit canyon. Equal cars, lucky clover boxes, mega ramps, banked turns, split-screen and a Track Lab. Random tools. Real results. Lucky you.",
+  "defaultCaptions": {
+    "x": "Charged drifts, lucky clover boxes and mega ramps through a giant sunlit canyon. Every car is equal — only your line matters. Play Lucky Clover Rally by Garketing in your browser. Lucky you.",
+    "facebook": "Lucky Clover Rally by Garketing is a fast arcade 3D racer: three laps, 16 gates a lap, equal cars and pure skill. Race AI rivals or a friend in split-screen. Random tools. Real results. Lucky you.",
+    "reddit": "Lucky Clover Rally — a browser arcade racer with charged drifts, slipstream, mega ramps, banked turns and fair lucky-box items. Solo, split-screen and a Track Lab.",
+    "discord": "Race me in Lucky Clover Rally by Garketing! Equal cars, a giant canyon and lucky clover boxes. Lucky you."
+  },
+  "assets": { "og": "assets/share/og.png", "favicon": "assets/share/favicon.png" }
+}
